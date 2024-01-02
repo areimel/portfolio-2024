@@ -1,0 +1,10 @@
+body{
+	background-image: radial-gradient(#11581e, #041607), url("/images/terminal-static-animated.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;	
+}
+
+.glowText{
+	text-shadow: 0 0 1.5ex #3f3, 0 0 2px rgba(255,255,255,0.8);
+}
