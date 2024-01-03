@@ -42,3 +42,13 @@ background-image: radial-gradient(circle at center center, transparent 0%,rgba(2
 /*.splide__pagination {
   visibility: hidden;
 }*/
+
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
